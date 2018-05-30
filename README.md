@@ -1,2 +1,5 @@
 # hello-world
-just first test 
+
+Hi humans!
+
+this is a test 
